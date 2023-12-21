@@ -7,4 +7,4 @@ Day 1 Task
 
  2.**Write a blog about objects and its internal representation in Javascript**
      
-Link : https://mediumcom@guruprasathk2020objects-and-its-internal-representation-in-javascript-2e0e207de405
+Link : https://medium.com@guruprasathk2020objects-and-its-internal-representation-in-javascript-2e0e207de405
